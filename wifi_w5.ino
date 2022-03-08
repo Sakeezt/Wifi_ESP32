@@ -6,7 +6,7 @@
 char auth[] = "VYcwk7-lGd0lmhfsXtQHEBJdesUC-hk9";
 char ssid[] = "Realme2Pro";
 char pass[] = "12345678";
-
+//select
 int motor1Pin1 = 12;    // Set pin for Motor 1 (LEFT)
 int motor1Pin2 = 14;
 int enable1Pin = 27;
